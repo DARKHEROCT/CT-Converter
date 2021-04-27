@@ -3,13 +3,13 @@
 This Tool Can Use To Encode And Decode Process
 
 Encode Process
-* Normal 👉 Base64,Base32,Base16,ASCII
+* Text 👉 Base64 , Base32 , Base16 , ASCII
 
 Decode Process
-* Base64 👉 Normal,Base32,Base16,ASCII
-* Base32 👉 Normal,Base64,Base16,ASCII
-* Base16 👉 Normal,Base64,Base32,ASCII
-* ASCII  👉 Normal,Base64,Base32,Base16
+* Base64 👉 Text , Base32 , Base16 , ASCII
+* Base32 👉 Text , Base64 , Base16 , ASCII
+* Base16 👉 Text , Base64 , Base32 , ASCII
+* ASCII  👉 Text , Base64 , Base32 , Base16
 
 
 # How To Installation
