@@ -23,7 +23,6 @@ Decode Process
 * bash install.sh
 * bash ctconverter.sh
 
-
 # Creators
 
 * DARK HERO
